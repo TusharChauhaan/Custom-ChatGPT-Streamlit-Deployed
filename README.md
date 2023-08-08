@@ -1,5 +1,5 @@
 
-### College management Q&A system using openai function calls 
+### Tushar College management Q&A system using openai function calls 
 
 ![](image.jpg)
 

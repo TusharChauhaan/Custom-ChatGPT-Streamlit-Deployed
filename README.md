@@ -1,4 +1,4 @@
-# OpenAI Function Calling Tutorial For Beginners
+
 ### College management Q&A system using openai function calls 
 
 ![](image.jpg)
